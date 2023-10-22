@@ -27,31 +27,31 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 
 # TA14 - DDL
-![image](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image1.png)
+![imagen](https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img1.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image2.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img2.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image3.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img3.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image4.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img4.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image5.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img5.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image6.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img6.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image7.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img7.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image8.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img8.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image9.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img9.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image10.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img10.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image11.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img11.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image12.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img12.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image12.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img12.png?raw=true)
 ***
-![image]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/image14.png)
+![imagen]https://github.com/OriolMelo/oms-tsys-TA14-2010/blob/main/docs/img14.png?raw=true)
 ***
