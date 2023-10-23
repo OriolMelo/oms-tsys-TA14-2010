@@ -1,3 +1,4 @@
+drop database ud14_ej12;
 create database ud14_ej12;
 use ud14_ej12;
 
@@ -19,7 +20,8 @@ CREATE TABLE cursos (
     fecha_inicio DATE,
     fecha_fin DATE,
     num_horas INT NOT NULL,
-    dni_profesor CHAR(9) NOT NULL REFERENCES profesores
+    dni_profesor CHAR(9) NOT NULL,
+    FOREIGN KEY (dni_profesor) REFERENCES profesores (dni)
     ON DELETE CASCADE ON UPDATE CASCADE,
     CHECK (fecha_inicio < fecha_fin)
 );
@@ -32,7 +34,7 @@ CREATE TABLE alumnos (
     direccion VARCHAR(80),
     sexo ENUM('M', 'H'),
     fecha_nacimiento DATE,
-    curso INT NOT NULL REFERENCES cursos
+    curso INT NOT NULL,
+    FOREIGN KEY (curso) REFERENCES cursos (codigo)
     ON DELETE CASCADE ON UPDATE CASCADE
 );
-
