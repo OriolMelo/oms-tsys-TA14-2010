@@ -14,7 +14,8 @@ CREATE TABLE empleados (
     dni VARCHAR(8) PRIMARY KEY,
     nombre NVARCHAR(100) NOT NULL,
     apellidos NVARCHAR(255) NOT NULL,
-    departamento INT NOT NULL REFERENCES departamentos ,
+    departamento INT NOT NULL, 
+    FOREIGN KEY (departamento) REFERENCES departamentos(codigo),
     UNIQUE ( nombre , apellidos , departamento )
 );
 
